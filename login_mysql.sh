@@ -6,7 +6,7 @@ config_files=()  # initialize array ?
 current_dir=$(dirname $(readlink -f $0)) 		# current file directory
 root_dir=$(dirname $(dirname $current_dir))		# root directory
 
-secret_file="config_secret_local.php"
+secret_file="secret_keys/config_secret_local.php"
 
 
 secret_file_path="$current_dir/$secret_file"
