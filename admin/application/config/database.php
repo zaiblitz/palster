@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => '',
-	'password' => '',
-	'database' => '',
+	'hostname' => '10.0.2.15',
+	'username' => 'og',
+	'password' => 'dcrajUg01',
+	'database' => 'og',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -94,3 +94,31 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
+//overwrite from config
+if (function_exists('get_instance')) {
+	$CI = &get_instance();
+	if ($CI) {
+		$db['default'] = array(
+			'dsn'	=> '',
+			'hostname' => $CI->config->item('db.default.hostname'),
+			'username' => $CI->config->item('db.default.username'),
+			'password' => $CI->config->item('db.default.password'),
+			'database' => $CI->config->item('db.default.database'),
+			'dbdriver' => $CI->config->item('db.default.dbdriver'),
+			'dbprefix' => $CI->config->item('db.default.dbprefix'),
+			'pconnect' => $CI->config->item('db.default.pconnect'),
+			'db_debug' => $CI->config->item('db.default.db_debug'),
+			'cache_on' => $CI->config->item('db.default.cache_on'),
+			'cachedir' => $CI->config->item('db.default.cachedir'),
+			'char_set' => $CI->config->item('db.default.char_set'),
+			'dbcollat' => $CI->config->item('db.default.dbcollat'),
+			'swap_pre' => $CI->config->item('db.default.swap_pre'),
+			'encrypt' => $CI->config->item('db.default.encrypt'),
+			'compress' => $CI->config->item('db.default.compress'),
+			'stricton' => $CI->config->item('db.default.stricton'),
+			'failover' => $CI->config->item('db.default.failover'),
+			'save_queries' => $CI->config->item('db.default.save_queries')
+		);
+	}
+}
