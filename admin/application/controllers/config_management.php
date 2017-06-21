@@ -11,4 +11,5 @@ class Config_Management extends CI_Controller {
     public function get_data() {
         echo 'ok';
     }
+
 }
