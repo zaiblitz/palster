@@ -8,7 +8,7 @@ class Config_Management extends CI_Controller {
         $this->load->model('admin_user');
     }
 
-    public function index() {
+    public function get_data() {
         echo 'ok';
     }
 }
