@@ -1,11 +1,11 @@
 <html lang="en">
 <head>
-    <title>Responsive Resume/CV／Portfolio Template</title>
+    <title>Zai Profile</title>
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Responsive Resume/CV／Portfolio Template">
+    <meta name="description" content="Zai Portfolio">
     <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
     <link rel="shortcut icon" href="favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
@@ -296,12 +296,14 @@
                 <div class="item">
                     <blockquote class="quote">
                         <p><i class="fa fa-quote-left"></i>
-                            Sed massa leo, aliquet non velit eu, volutpat vulputate odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse porttitor metus eros, ut fringilla nulla auctor a.</p>
+                            Merwin has been able to balance the needs of the team with his individual responsibilities.
+                            He exhibits a high degree of openness and objectivity to the views of others.
+                        </p>
 
                     </blockquote>
                     <div class="source">
-                        <div class="name">Christina Jensen</div>
-                        <div class="position">Senior Developer, Twitter</div>
+                        <div class="name">Andy Radam</div>
+                        <div class="position">Project Manager, TripleOne Tech</div>
                     </div>
 
                 </div>
@@ -315,10 +317,8 @@
                         <div class="position">CEO, Startup Hub</div>
                     </div>
                 </div>
-
             </div>
         </div>
-
     </section>
 
 
@@ -472,7 +472,7 @@
 
 <footer class="footer text-center">
     <div class="container">
-        <small class="copyright">Template Copyright @ <a href="http://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+        <small class="copyright">Designed by <a href="zaiblitz.github.io" target="_blank">Merwin Dale</a></small>
     </div>
 </footer>
 
