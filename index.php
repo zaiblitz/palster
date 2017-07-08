@@ -10,7 +10,8 @@
     <link rel="shortcut icon" href="images/favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
     <!-- Global CSS -->
-    <link rel="stylesheet" href="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!-- Plugins CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -180,7 +181,7 @@
                 <div class="item-inner">
                     <h3 class="degree">SMSA</h3>
                     <div class="education-body">
-                        University of Bristol
+                        Sto. Tomas La Union
                     </div>
                     <div class="time">2002 - 2006</div>
                     <div class="desc">
@@ -192,7 +193,7 @@
                 <div class="item-inner">
                     <h3 class="degree">Sto. Tomas Central School</h3>
                     <div class="education-body">
-                        University of Bristol
+                        Sto. Tomas La Union
                     </div>
                     <div class="time">1996 - 2002</div>
                     <div class="desc">
@@ -477,8 +478,8 @@
 </footer>
 
 <!-- Javascript -->
-<script type="text/javascript" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/jquery-1.12.4.min.js"></script>
-<script type="text/javascript" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/back-to-top.js"></script>
 <script type="text/javascript" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
 <script type="text/javascript" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
