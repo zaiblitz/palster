@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Zai Portfolio">
     <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="images/favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
     <!-- Global CSS -->
     <link rel="stylesheet" href="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/plugins/bootstrap/css/bootstrap.min.css">
@@ -152,7 +152,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed a web Sales Management system called Salico for our Japanese client
+                        Developed a web Sales Management syst em called Salico for our Japanese client
                     </p>
                 </div>
             </div>
@@ -285,7 +285,7 @@
                 <div class="item active">
                     <blockquote class="quote">
                         <i class="fa fa-quote-left"></i>
-                        <p>Zai is an excellent software engineer and he is passionate about what he does. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Suspendisse porttitor metus eros.</p>
+                        <p>Zai is an excellent software engineer and he is passionate about what he does.</p>
                     </blockquote>
                     <div class="source">
                         <div class="name">Rob Olson</div>
