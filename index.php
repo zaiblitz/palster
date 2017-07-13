@@ -101,7 +101,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                       Developed an smart ackend system that include player game details, affiliates and agency system.
+                       Developed an smart backend system that include player game details, affiliates and agency system.
                     </p>
                     <ul>
                         <li>Responsibile for maintaining, expanding, and scaling client's site</li>
@@ -122,7 +122,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed a digital micro payment that include creating merchant account.
+                        Tagcash - Developed a digital micro payment that include creating merchant account.
 
                         Developed an api for food ordering for miskio app. Payment type is through tagcoin.
                     </p>
@@ -140,7 +140,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed a timekeeping attendance and payroll system called People Central to simplify HR task.
+                        People Central - Developed a timekeeping attendance and payroll system to simplify HR task.
                     </p>
                 </div>
             </div>
@@ -156,7 +156,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed an online Management System  called Salico for our Japanese client
+                        Salico - Developed an online management system for our Japanese client
                     </p>
                 </div>
             </div>
@@ -340,11 +340,11 @@
             <div class="item frontend col-md-3 col-xs-6 ">
                 <div class="item-inner">
                     <figure class="figure">
-                        <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-1.jpg" alt="" />
+                        <img class="img-responsive" style="height:170px;width:320px;" src="images/tripleone.png" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
-                        <div class="meta">AngularJS</div>
+                        <h3 class="sub-title"><a href="#">SBE</a></h3>
+                        <div class="meta">PHP - CodeIgniter</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
@@ -353,11 +353,11 @@
             <div class="item backend col-md-3 col-xs-6 ">
                 <div class="item-inner">
                     <figure class="figure">
-                        <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-2.jpg" alt="" />
+                        <img class="img-responsive" style="height:170px;width:320px;" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-2.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
-                        <div class="meta">Django</div>
+                        <h3 class="sub-title"><a href="#">Tagcash</a></h3>
+                        <div class="meta">PHP - Yii</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
@@ -366,11 +366,11 @@
             <div class="item backend frontend col-md-3 col-xs-6 ">
                 <div class="item-inner">
                     <figure class="figure">
-                        <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-3.jpg" alt="" />
+                        <img class="img-responsive" style="height:170px;width:320px;" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-3.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
-                        <div class="meta">Django/JavaScript</div>
+                        <h3 class="sub-title"><a href="#">People Central</a></h3>
+                        <div class="meta">PHP - CodeIgniter</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
@@ -382,7 +382,7 @@
                         <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-4.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
+                        <h3 class="sub-title"><a href="#">Salico</a></h3>
                         <div class="meta">ReactJS</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
@@ -395,7 +395,7 @@
                         <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-5.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
+                        <h3 class="sub-title"><a href="#">Hirumero</a></h3>
                         <div class="meta">Python</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
@@ -408,42 +408,13 @@
                         <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-6.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
+                        <h3 class="sub-title"><a href="#">Tagbond</a></h3>
                         <div class="meta">JavaScript</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
                 </div>
             </div>
-
-            <div class="item frontend col-md-3 col-xs-6 ">
-                <div class="item-inner">
-                    <figure class="figure">
-                        <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-7.jpg" alt="" />
-                    </figure>
-                    <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
-                        <div class="meta">HTML/AngularJS</div>
-                        <div class="action"><a href="#">View on Github</a></div>
-                    </div>
-                    <a class="link-mask" href="#"></a>
-                </div>
-            </div>
-
-            <div class="item frontend backend col-md-3 col-xs-6 ">
-                <div class="item-inner">
-                    <figure class="figure">
-                        <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-8.jpg" alt="" />
-                    </figure>
-                    <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Project Lorem Ipsum</a></h3>
-                        <div class="meta">Python/AngularJS</div>
-                        <div class="action"><a href="#">View on Github</a></div>
-                    </div>
-                    <a class="link-mask" href="#"></a>
-                </div>
-            </div>
-
         </div>
 
     </section>
@@ -453,7 +424,10 @@
         <div class="intro">
             <img class="profile-image" src="images/zai-profile.gif" alt="">
             <div class="dialog">
-                <p>I'm currently taking on freelance work. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
+                <p>I'm currently taking on freelance work. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                    Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.
+                    Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+                    Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</p>
                 <p><strong>I can help with the following:</strong></p>
                 <ul class="list-unstyled service-list">
                     <li><i class="fa fa-check" aria-hidden="true"></i> App development with ReactJS</li>
