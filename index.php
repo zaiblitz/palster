@@ -45,14 +45,15 @@
         <div class="container text-center">
             <img class="profile-image" src="images/zai-profile.gif" alt="">
             <h1 class="name">Merwin Dale Domingo</h1>
-            <div class="title">Full Stack Developer</div>
+            <div class="title">PHP Developer</div>
             <div class="profile">
                 <p>
-                    Very technical in web development. And can work independently or in a team.
-                    I have a good understanding in object oriented and very adept in mvc framework.
-                    I also have an extensive experience in front end development and I'm good in laying out pages using
-                    native css and html and also with the used of Twitter Bootstrap. Moreover, I'm knowledgeable in
-                    implementing web service api such as Facebook, Twitter, Google etc.
+                    I have 4+ years of general experience in the web-development industry.
+
+                    I'm highly professional and communicative, always deliver on time and Guarantee 100% Satisfaction and Quality.
+
+                    I can develop a simple web site or complex web application with or without help of
+                    UX/front-end developers. Mainly I am focused on back-end programming but ready to manage the whole application building process when needed.
                 </p>
             </div>
         </div>
@@ -63,7 +64,7 @@
             <ul class="list-inline">
                 <li class="email"><i class="fa fa-envelope"></i><a href="mailto:merwindale.domingo@gmail.com">merwindale.domingo@gmail.com</a></li>
                 <li><i class="fa fa-phone"></i> <a href="tel: 0123456789">+639773250500</a></li>
-                <li class="website"><i class="fa fa-globe"></i><a href="#" target="_blank">portfoliosite.com</a></li>
+                <li class="website"><i class="fa fa-globe"></i><a href="zaiblitz.github.io" target="_blank">zaiblitz.github.io</a></li>
             </ul>
         </div>
     </div>
@@ -99,11 +100,13 @@
                     <div class="time">September 2016 - Present</div>
                 </div>
                 <div class="job-desc">
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</p>
+                    <p>
+                       Developed an smart ackend system that include player game details, affiliates and agency system.
+                    </p>
                     <ul>
-                        <li>Lorem ipsum dolor sit amet</li>
-                        <li>Donec pede justo ante</li>
-                        <li>Maecenas tempus tellus eget </li>
+                        <li>Responsibile for maintaining, expanding, and scaling client's site</li>
+                        <li>Cooperate with web designers to match visual design intent</li>
+                        <li>Game Integration</li>
                     </ul>
                 </div>
             </div>
@@ -119,8 +122,9 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed a large scale web application called People Central that integrate timekeeping, attendance
-                        and payroll system to simplify HR task.
+                        Developed a digital micro payment that include creating merchant account.
+
+                        Developed an api for food ordering for miskio app. Payment type is through tagcoin.
                     </p>
                 </div>
             </div>
@@ -136,8 +140,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed a large scale web application called People Central that integrate timekeeping, attendance
-                        and payroll system to simplify HR task.
+                        Developed a timekeeping attendance and payroll system called People Central to simplify HR task.
                     </p>
                 </div>
             </div>
@@ -153,7 +156,7 @@
                 </div>
                 <div class="job-desc">
                     <p>
-                        Developed a web Sales Management syst em called Salico for our Japanese client
+                        Developed an online Management System  called Salico for our Japanese client
                     </p>
                 </div>
             </div>
@@ -167,13 +170,13 @@
         <div class="row">
             <div class="item col-xs-12 col-sm-4">
                 <div class="item-inner">
-                    <h3 class="degree">BSIT</h3>
+                    <h3 class="degree">Mapua Institute of Technology - BSIT</h3>
                     <div class="education-body">
-                        Mapua Institute of Technology
+                        333 Sen. Gil J. Puyat Ave, Makati, 1200 Metro Manila
                     </div>
                     <div class="time">2006 - 2012</div>
                     <div class="desc">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+
                     </div>
                 </div>
             </div>
@@ -185,7 +188,7 @@
                     </div>
                     <div class="time">2002 - 2006</div>
                     <div class="desc">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+
                     </div>
                 </div>
             </div>
@@ -197,7 +200,6 @@
                     </div>
                     <div class="time">1996 - 2002</div>
                     <div class="desc">
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
                     </div>
                 </div>
             </div>
@@ -311,12 +313,16 @@
                 <div class="item">
                     <blockquote class="quote">
                         <p><i class="fa fa-quote-left"></i>
-                            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes</p>
+                            Merwin has been able to balance the needs of the team with his individual responsibilities.
+                            He exhibits a high degree of openness and objectivity to the views of others.
+                        </p>
+
                     </blockquote>
                     <div class="source">
-                        <div class="name">Austin Ward</div>
-                        <div class="position">CEO, Startup Hub</div>
+                        <div class="name">Andy Radam</div>
+                        <div class="position">Project Manager, TripleOne Tech</div>
                     </div>
+
                 </div>
             </div>
         </div>
