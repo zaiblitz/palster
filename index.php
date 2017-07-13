@@ -393,7 +393,7 @@
                         <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-5.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
-                        <h3 class="sub-title"><a href="#">Hirumero</a></h3>
+                        <h3 class="sub-title"><a href="#">Hirumeru</a></h3>
                         <div class="meta">Python</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
