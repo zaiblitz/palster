@@ -262,8 +262,8 @@
                 <span class="skill-tag">NodeJS</span>
                 <span class="skill-tag">Angular</span>
                 <span class="skill-tag">ReactJS</span>
-                <span class="skill-tag">Spanish</span>
-                <span class="skill-tag">French</span>
+                <span class="skill-tag">CSS3</span>
+                <span class="skill-tag">HTML5</span>
             </div>
         </div>
 
@@ -377,7 +377,7 @@
             <div class="item frontend col-md-3 col-xs-6 ">
                 <div class="item-inner">
                     <figure class="figure">
-                        <img class="img-responsive" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-4.jpg" alt="" />
+                        <img class="img-responsive" style="height:170px;width:320px;" src="https://themes.3rdwavemedia.com/sphere/1.1.1/assets/images/portfolio/portfolio-4.jpg" alt="" />
                     </figure>
                     <div class="content text-left">
                         <h3 class="sub-title"><a href="#">Salico</a></h3>
