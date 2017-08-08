@@ -381,7 +381,7 @@
                     </figure>
                     <div class="content text-left">
                         <h3 class="sub-title"><a href="#">Salico</a></h3>
-                        <div class="meta">ReactJS</div>
+                        <div class="meta">PHP</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
@@ -394,7 +394,7 @@
                     </figure>
                     <div class="content text-left">
                         <h3 class="sub-title"><a href="#">Hirumeru</a></h3>
-                        <div class="meta">Python</div>
+                        <div class="meta">PHP</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
@@ -407,7 +407,7 @@
                     </figure>
                     <div class="content text-left">
                         <h3 class="sub-title"><a href="#">Tagbond</a></h3>
-                        <div class="meta">JavaScript</div>
+                        <div class="meta">PHP-Yii</div>
                         <div class="action"><a href="#">View on Github</a></div>
                     </div>
                     <a class="link-mask" href="#"></a>
